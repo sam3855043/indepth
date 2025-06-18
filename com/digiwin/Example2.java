@@ -21,7 +21,7 @@ public class Example2 {
             fetcher.setAIServerUrl(aiServerUrl);
             
             // 登入取得 token
-            String token = fetcher.login("samuel-chuang@digiwin.com", "God1God@", serverUrl);
+            String token = fetcher.login("....@digiwin.com", ".....", serverUrl);
             
             // AI 問答
             String[] questions = {
